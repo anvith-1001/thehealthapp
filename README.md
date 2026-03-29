@@ -36,6 +36,7 @@ Hardware Device Document: https://docs.google.com/document/d/1jCtjUZlMCq8EOS6rEe
 
 This application requires a hardware device and backend API for authentication, health data processing, and AI insights generation.  
 Refer to the backend implementation: https://github.com/anvith-1001/AIAM.git
+
 Hardware Device Document: https://docs.google.com/document/d/1jCtjUZlMCq8EOS6rEezqeu3t8Kw1eHbKTaZjXdLoMpY/edit?usp=sharing
 
 ## Project Structure
